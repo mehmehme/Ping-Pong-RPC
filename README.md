@@ -1,8 +1,8 @@
-===========================================================
+==
       PROJETO PING PONG MULTIPLAYER - RPC & SOCKET
-===========================================================
+==
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cAv439ilAViXDJJySCkEa3ESyNNvIEZKZg&s" width="500" height="300" />
+<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cAv439ilAViXDJJySCkEa3ESyNNvIEZKZg&s](https://i.pinimg.com/originals/1b/71/cc/1b71cc0879278d50a3a147a6510548d7.gif)" width="500" height="300" />
 
 Este projeto é um jogo de Ping Pong multiplayer desenvolvido em 
 Python usando a biblioteca Pygame. O jogo utiliza uma arquitetura 
@@ -53,7 +53,6 @@ física autoritativa e gestão de latência.
 * MOUSE: Movimente o cursor para cima e para baixo para 
   controlar sua raquete.
 
-===========================================================
 Configuração de Rede: Para jogar em PCs diferentes, mude o 
 "localhost" no net_manager.py para o IP do PC servidor.
-===========================================================
+
