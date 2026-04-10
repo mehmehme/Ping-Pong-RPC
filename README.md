@@ -2,7 +2,7 @@
       PROJETO PING PONG MULTIPLAYER - RPC & SOCKET
 ==
 
-<img src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_cAv439ilAViXDJJySCkEa3ESyNNvIEZKZg&s](https://i.pinimg.com/originals/1b/71/cc/1b71cc0879278d50a3a147a6510548d7.gif)" width="500" height="300" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyeHdvem40ejQyZXQxOWd5NTlwMm44NTB4ZHVwNTl4OTdrY2dqMjc1eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ECwTCTrHPVqKI/giphy.gif" width="500" height="300" />
 
 Este projeto é um jogo de Ping Pong multiplayer desenvolvido em 
 Python usando a biblioteca Pygame. O jogo utiliza uma arquitetura 
