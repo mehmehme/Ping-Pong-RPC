@@ -1,0 +1,12 @@
+Relatório de Gestão de Latência - Jogador 1
+========================================
+[14:14:33] Latência: 16.9ms | Concorrência: Ativa
+[14:14:35] Latência: 16.12ms | Concorrência: Ativa
+[14:14:37] Latência: 15.9ms | Concorrência: Ativa
+[14:14:39] Latência: 15.9ms | Concorrência: Ativa
+[14:14:41] Latência: 15.88ms | Concorrência: Ativa
+[14:14:43] Latência: 16.88ms | Concorrência: Ativa
+[14:14:45] Latência: 15.88ms | Concorrência: Ativa
+[14:14:47] Latência: 16.9ms | Concorrência: Ativa
+[14:14:49] Latência: 15.74ms | Concorrência: Ativa
+[14:14:51] Latência: 16.01ms | Concorrência: Ativa

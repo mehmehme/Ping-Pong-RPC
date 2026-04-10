@@ -1,0 +1,34 @@
+Relatório de Gestão de Latência - Jogador 0
+========================================
+[14:14:01] Latência: 16.89ms | Concorrência: Ativa
+[14:14:03] Latência: 16.9ms | Concorrência: Ativa
+[14:14:05] Latência: 16.83ms | Concorrência: Ativa
+[14:14:07] Latência: 16.88ms | Concorrência: Ativa
+[14:14:09] Latência: 16.78ms | Concorrência: Ativa
+[14:14:11] Latência: 15.89ms | Concorrência: Ativa
+[14:14:13] Latência: 17.06ms | Concorrência: Ativa
+[14:14:15] Latência: 16.1ms | Concorrência: Ativa
+[14:14:17] Latência: 16.92ms | Concorrência: Ativa
+[14:14:19] Latência: 16.89ms | Concorrência: Ativa
+[14:14:21] Latência: 16.87ms | Concorrência: Ativa
+[14:14:23] Latência: 16.25ms | Concorrência: Ativa
+[14:14:25] Latência: 16.89ms | Concorrência: Ativa
+[14:14:27] Latência: 15.88ms | Concorrência: Ativa
+[14:14:29] Latência: 16.87ms | Concorrência: Ativa
+[14:14:31] Latência: 16.07ms | Concorrência: Ativa
+[14:14:33] Latência: 15.88ms | Concorrência: Ativa
+[14:14:35] Latência: 16.72ms | Concorrência: Ativa
+[14:14:37] Latência: 15.86ms | Concorrência: Ativa
+[14:14:39] Latência: 15.81ms | Concorrência: Ativa
+[14:14:41] Latência: 15.88ms | Concorrência: Ativa
+[14:14:44] Latência: 15.87ms | Concorrência: Ativa
+[14:14:46] Latência: 16.05ms | Concorrência: Ativa
+[14:14:48] Latência: 15.91ms | Concorrência: Ativa
+[14:14:50] Latência: 15.79ms | Concorrência: Ativa
+[14:14:52] Latência: 16.9ms | Concorrência: Ativa
+[14:14:54] Latência: 15.66ms | Concorrência: Ativa
+[14:14:56] Latência: 15.91ms | Concorrência: Ativa
+[14:14:58] Latência: 15.93ms | Concorrência: Ativa
+[14:15:00] Latência: 15.06ms | Concorrência: Ativa
+[14:15:02] Latência: 16.8ms | Concorrência: Ativa
+[14:15:04] Latência: 16.85ms | Concorrência: Ativa
